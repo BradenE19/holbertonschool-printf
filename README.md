@@ -99,5 +99,3 @@ If you'd like to contribute to this project, please follow these steps:
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/braden-earnest/)
 [Github Repo](https://github.com/BradenE19/holbertonschool-printf)
-
-You can replace the placeholders with actual details specific to your project. Let me know if you need any modifications or additional sections!
