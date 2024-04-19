@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _printDec - Print decimal (Base 10)
- * @values: Store the value of arguments
+ * @values: Store the value of arguments 
  * Return: Counter print numbers
  */
 int _printDec(va_list values)
