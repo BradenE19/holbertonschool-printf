@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchar - writes the character c to stdout
+ * _putchar - writes the character c to stdout 
  * @c: Store the character in ascii
  * Return: On success 1.
  */
